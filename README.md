@@ -1,4 +1,4 @@
-# FoodDeliveryApp
+# FoodDelivery Online Application
 
 > A beautiful food delivery app for use in online food commerce.
 
